@@ -1,6 +1,6 @@
 # Access AWS RDS with Python 3
 
-
+YouTube Lesson: https://youtu.be/RerDL93sBdY
 ```python
 # DB instance identifier: database-1
 # username: admin
